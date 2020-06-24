@@ -1,5 +1,5 @@
 .charsheet {
-  background-image: url(https://i.pinimg.com/originals/85/f8/c4/85f8c4241e502636dd2bcf0f3c6e886e.jpg); /*black space with tiny white stars*/
+  background-image: url(https://github.com/taimatime/Roll20_Skyfarer_Sheet/blob/master/PaperTexture.jpg.jpg?raw=true); /*Papertexture*/
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
@@ -17,26 +17,6 @@ input[type="text"]
 {
     background: opacity 0.5;
     border: none;
-}
-
-
-button[type="roll"].sheet-d20:before{
-  content: ' ';
-}
-
-button[type="roll"].sheet-d20:hover{
-  background-position: 0;
-}
-
-button[type="roll"].sheet-d20{
-  background-image: url(https://66.media.tumblr.com/aeaf6fb9298880af5d6a8961cdfd9904/40fca99fb6730f10-6f/s250x400/633907d79c4de027bf687c122e4859423c279d4b.png); 
-  background-size: 26px 26px;
-  background-repeat: no-repeat;
-  width: 26px;
-  height: 26px;
-  border-style: none;
-  background-color: transparent;
-  margin-left: 5px;
 }
 
 .sheet-block-a,
